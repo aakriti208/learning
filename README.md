@@ -73,6 +73,7 @@ A running log of things I'm learning to build strong core software engineering s
 | [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)                      |          |
 | [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)                                                  |          |
 | [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)            |          |
+| [Youtube: SQL Course for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)                                                 |          |
 
 ### Backend and System Design
 
